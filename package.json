@@ -1,0 +1,17 @@
+{
+  "name": "lab2b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "finalhandler": "^1.1.1",
+    "nodemon": "^1.18.10",
+    "router": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
